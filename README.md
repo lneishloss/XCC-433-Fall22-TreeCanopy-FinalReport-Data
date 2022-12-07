@@ -8,7 +8,7 @@ Repository for all the data and figures for the Fall 22 HUB XC433 B1: Environmen
 
 neighborhoods.qgz is the project file we used to make the maps, though simply loading Boston_Neighborhoods.shp into qGIS should have the same effect. 
 
-"Canopies and other data" is a project file that includes some other data we looked at but did not use for our analysis, such as the raw tree canopy shapefiles and Boston land plots data. This could be an avenue for future research.
+Canopies and other data.qgz is a project file that includes some other data we looked at but did not use for our analysis, such as the raw tree canopy shapefiles and Boston land plots data. This could be an avenue for future research.
         
 qGIS can be downloaded from their website here: https://www.qgis.org/en/site/
         Our project was done with qGIS version 3.26 Buenos Aries
